@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ccb05b9e5a7d1004d9d3eee1e94a5f4e
+guid: adb02000d39d0e94f97e580181d138e6
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -36,7 +36,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 161
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -98,7 +98,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638967197477456830
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -123,9 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Boden-0001
+  - name: pearldissapear
     originalName: 
-    pivot: {x: 1, y: -0.42857146}
+    pivot: {x: 0.5147059, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 80
-      height: 112
-    spriteID: 29db7f9ea30cc42499b5ee09d21864f2
+      width: 476
+      height: 16
+    spriteID: d5d4c3bacca01944098ce56e98c9fa57
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -143,30 +143,30 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: -44}
+    uvTransform: {x: 1, y: 4}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 2615099004
+      value0: 3456497234
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Boden-0001
+    name: pearldissapear
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Boden-0001
+    - name: pearldissapear
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
-        width: 160
-        height: 160
-      spriteId: 29db7f9ea30cc42499b5ee09d21864f2
+        width: 496
+        height: 16
+      spriteId: d5d4c3bacca01944098ce56e98c9fa57
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -182,32 +182,8 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 160, y: 160}
-  previousTextureSize: {x: 128, y: 128}
+  canvasSize: {x: 496, y: 16}
+  previousTextureSize: {x: 512, y: 32}
