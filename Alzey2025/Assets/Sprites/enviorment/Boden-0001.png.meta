@@ -105,7 +105,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -278,9 +278,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d068aaa8fedd904c0800000000000000
+      spriteID: 5147feb2cdd6251458353e470c19ff19
       internalID: -4320678346591926771
       vertices: []
       indices: 
@@ -300,9 +300,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 350756a35baf3cd90800000000000000
+      spriteID: 7dff5ca3d6de6444dbb7ed8d963fcaab
       internalID: -7078538533020536749
       vertices: []
       indices: 
@@ -322,9 +322,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4234075afa62b34a0800000000000000
+      spriteID: 8a0164af82f1269429d5d0e5f0e4c465
       internalID: -6612649092026711260
       vertices: []
       indices: 
@@ -344,9 +344,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 09ebc0fd4bddb0180800000000000000
+      spriteID: 93d36b140b2eb7f4787e0db008900ce3
       internalID: -9147974449167024496
       vertices: []
       indices: 
@@ -366,9 +366,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9b5ee9965cb5b4d0800000000000000
+      spriteID: b137cccd6522a994fad568ba54187465
       internalID: -3119380086748456034
       vertices: []
       indices: 
@@ -388,10 +388,32 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 92032b646e9403180800000000000000
+      spriteID: 88f96cb737996824e85bdc5737b23aec
       internalID: -9137722390557347799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boden-0001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02d6125f060e6040945fc8ac63be56f
+      internalID: 1077691782
       vertices: []
       indices: 
       edges: []
@@ -414,6 +436,7 @@ TextureImporter:
       Boden-0001_1: -9031620059716597150
       Boden-0001_10: -3119380086748456034
       Boden-0001_11: -9137722390557347799
+      Boden-0001_12: 1077691782
       Boden-0001_2: -2595599474298487081
       Boden-0001_3: 2175862557780870996
       Boden-0001_4: -8687083129025674361
